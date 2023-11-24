@@ -12,7 +12,7 @@ keywords = ["docx", "generator", "openxml", "parser"]
 [dependencies]
 derive_more = "0.99.5"
 log = "0.4.8"
-strong-xml = { git = "https://github.com/O1dMate/strong-xml" version = "0.5.1", features = ["log"] }
+strong-xml = { git = "https://github.com/O1dMate/strong-xml" version = "0.6.3", features = ["log"] }
 zip = "0.5.5"
 
 [dev-dependencies]
